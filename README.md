@@ -6,6 +6,8 @@
 
 # 建议还是部署在自己本地的树莓派或者装了python的op路由器之类的上面哈, action不太稳的样子
 
+#action体验不佳, 不再直接支持action, 请自行fork修改
+
 # 以下是action食用方式
 1. 右上角fork本仓库
 2. 点击Settings -> Secrets -> 点击绿色按钮 (如无绿色按钮说明已激活。直接到第三步。)
